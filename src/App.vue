@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <h1>Your LLM Ops and ML Ops Models</h1>
+    <h1>Your GenAI for every business Models</h1>
 	<h2>Upload your data to get gen AI predictions</h2>
     <img
       alt="Vue logo"
